@@ -11,7 +11,7 @@ Created on Mon Feb 22 08:32:48 2016
 from __future__ import absolute_import
 
 import warnings
-from collections.abc import OrderedDict
+from collections import OrderedDict
 from collections.abc import Iterable
 from numbers import Number
 
